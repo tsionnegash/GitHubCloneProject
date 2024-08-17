@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Hello, this is a message from my cloned repository!
+=======
+Hello, this is a message from my cloned repository! inside the greetings.txt
+>>>>>>> origin/main
